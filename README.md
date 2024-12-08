@@ -145,3 +145,6 @@ This project is being sponsored by [Tubi](https://tubitv.com/). Thank you!
 Many thanks to [gpb](https://github.com/tomas-abrahamsson/gpb) and
 [golang/protobuf](https://github.com/golang/protobuf) as good examples of
 writing Protobuf decoder/encoder.
+
+By [Dmytro Nasyrov, Founder, CTO at Pharos Production Inc.](https://www.linkedin.com/in/dmytronasyrov/)
+And [Pharos Production Inc. - Web3, blockchain, fintech, defi software development services](https://pharosproduction.com)
